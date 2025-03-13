@@ -1182,14 +1182,4 @@ img {
   height: 100%; /* Altura del iframe */
   border-radius: 20px;
 }
-@media (max-width: 768px) {
-    .mi-clase {
-        font-size: 14px;
-    }
-}
 
-@media (min-width: 769px) {
-    .mi-clase {
-        font-size: 18px;
-    }
-}
